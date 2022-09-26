@@ -1,16 +1,3 @@
-# Projeto
+App criado durante o curso "Flutter: Widgets, Stateless, Stateful, Imagens e Animações", fiz uma modificação no botão do canto inferior direito, no qual deveria ser um botão de opacidade que deixaria a tela em branco, para um botão de troca de tema e ícone botão flutuante. Acredito que não tenha sido a melhor forma de implementar um tema escuro, usei operadores ternários para alternar de acordo com o clique do usuário, porém achei legal o processo de ficar tentando até dar certo. Sobre o desafio de trocar a cor da barra inferior conforme o reset do nível, troquei a cor da linha de progresso para acompanhar a cor da barra inferior mas com o shade de 700/900.
 
-task manager App
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+** Os ícones foram obtidos através do site freepik.com, criados por "macrovector", link: https://br.freepik.com/vetores-gratis/conjunto-isometrico-de-ginasio_4359502.htm#query=gym-isometric-set&position=10&from_view=search&track=sph.
